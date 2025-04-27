@@ -5,4 +5,4 @@ Chaque mois, le donneur ayant le plus contribué sera mis à l'honneur sur la pa
 Tous les fichiers nécessaires sont déjà réalisés ; il ne reste que la liaison entre les interfaces et le backend, qui n'a pas pu être finalisée par manque de temps.
 et finalement voila un video dimenstratif merci de visiter ce lien : https://drive.google.com/drive/folders/1qmONc1GOhfOflubLUt46p37XIhclpQK6
 
-sujet proposé : YohaTech .
+sujet proposé par : YohaTech .
